@@ -9,3 +9,7 @@ Nasza postac chce, aby zdobywała losowe przedmioty, które beda zapewniały sta
 
 Nie wiem na ile uda mi sie zaimplementowac wszystkie elementy, aktualnie staram sie wybrac jeden typ graficzny by stworzyc wstepne assety, kolejnosc nad jaka bede wprowadzal nowe rzeczy to Generowanie map -> potwory -> roznorodnosc atakow -> przedmioty
 Przedmioty same w sobie nie beda problemem, chyba ze beda mialy ze soba oddzialywanie, co chcialbym zrobic jesli czas pozwoli
+
+![image](https://github.com/DefinitelyDes/Techniczna-praca-nowatorska/assets/105553536/d3010c78-d731-488c-8c1d-bf74e074cfc1)
+
+![image](https://github.com/DefinitelyDes/Techniczna-praca-nowatorska/assets/105553536/fe799081-c461-4463-9ad0-da182c79e9e4)
