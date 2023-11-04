@@ -34,9 +34,7 @@ sprity terenu
 
 
 Temat pracy - Gra rogue like z wykorzytaniem AI
-
-Poprzednim razem miałem zaimplementowane podstawowe elementy rogue like tj generowanie losowe map, potwory etc 
-
+[NIEAKTUALNE]
 Aktualnie jedynie napisałem prosta gre w ktorej postac porusza sie po kwadratowej mapie (brak assetow) 
 Sam pomysl przez koniecznosc rozpoczecia od nowa trochę evoluowal, chcialbym zrobic gre z "perspektywy" psa, ktory wraca do domu, z perspektywy gry beda to losowe plansze (aka blakanie sie), ktore bedziemy przechodzic az trafimy do domu
 Potworami chce, aby byly rzeczy codzienne, tylko karytakuralne(chojrak tchorzliwy pies)
