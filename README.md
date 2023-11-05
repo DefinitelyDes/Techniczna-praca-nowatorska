@@ -1,5 +1,10 @@
 5.11.2023
 changelog: 
+health bar (zalezny od ilosci zycia, ktore bedzie sie zwiekszalo dzieki itemom)
+![image](https://github.com/DefinitelyDes/Techniczna-praca-nowatorska/assets/105553536/a7221a48-bfb0-4d3d-88c9-0b21c968ffbf)
+![image](https://github.com/DefinitelyDes/Techniczna-praca-nowatorska/assets/105553536/fcfed69f-6414-41b8-ac96-d5aa898a73bd)
+
+
 stworzenie 2 typow przeciwnikow, nacierajacy oraz uciekajacy, kiedy gracz bedzie w poblizu
 https://youtu.be/oXJBGnOJ45w
 
